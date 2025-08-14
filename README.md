@@ -10,7 +10,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 I'm a B.Tech graduate, Class of **2025**
-- 🌱 I’m currently working on **React, Node.js, Express & MongoDB**
+- 🌱 I’m currently working on **React, Next.js, Node.js, Express & MongoDB**
 - 💬 Ask me about **MERN Stack, REST APIs, JavaScript, and full stack project structuring**
 - 👀 I’m currently looking for opportunities to grow as a **Full Stack Developer**
 - 📫 You can reach me at:  
